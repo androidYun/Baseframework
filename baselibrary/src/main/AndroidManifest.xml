@@ -1,0 +1,8 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.lgy.baselibrary">
+
+    <application android:name="com.lgy.baselibrary.BaseApplication">
+
+    </application>
+
+</manifest>

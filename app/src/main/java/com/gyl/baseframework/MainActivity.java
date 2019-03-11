@@ -1,4 +1,4 @@
-addpackage com.gyl.baseframework;
+package com.gyl.baseframework;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
